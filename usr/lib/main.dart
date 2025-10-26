@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'dart:async';
-import 'login_screen.dart'; // This will be created in the next step
+import 'splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
